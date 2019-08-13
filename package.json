@@ -1,6 +1,6 @@
 {
   "name": "ethereum-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Test Ethereum API for Node",
   "main": "index.js",
   "scripts": {
